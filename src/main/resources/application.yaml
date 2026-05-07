@@ -20,7 +20,7 @@ spring:
 
 envio:
   email:
-    remetente: devlucca2003@gmail.com
+    remetente:
     nomeRemetente: 'Lucca'
 
 server:
